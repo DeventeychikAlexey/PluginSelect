@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.30.0"
+  },
+  "name": "select",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
